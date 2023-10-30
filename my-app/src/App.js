@@ -3,7 +3,10 @@
 // import Sidebar from './components/Sidebar';
 // import StatefulGreeting from './components/StatefulGreeting';
 // import StatefulGreetingWithCallback from "./components/StatefulGreetingWithCallback";
-import StatefulGreetingWithPrevState from "./components/StatefulGreetingWithPrevState";
+// import StatefulGreetingWithPrevState from "./components/StatefulGreetingWithPrevState";
+  import EventClass from "./components/EventClass";
+  import EventsFunctional from "./components/EventsFunctional";
+
 
 function App() {
   return (
@@ -12,7 +15,9 @@ function App() {
       {/* <Sidebar />  */}
       {/* <StatefulGreeting greeting="I'm a stateful class component!" name="John" /> */}
       {/* <StatefulGreetingWithCallback greeting="I'm a stateful class component!" name="John" />  */}
-      <StatefulGreetingWithPrevState greeting="I'm a stateful class component!" name="John" /> 
+      {/* <StatefulGreetingWithPrevState greeting="I'm a stateful class component!" name="John" />  */}
+      <EventClass />
+      <EventsFunctional />
 
     </div>
   );
