@@ -12,8 +12,10 @@
     // import NestingComponents from './components/NestingComponents';
   // import MethodsAsPropsChild from "./components/MethodsAsPropsChild";
 // import { MethodsAsPropsParent } from "./components/MethodsAsPropsParent";
-import Click from "./components/Click";
+// import Click from "./components/Click";
 // import RenderingLists from "./components/RenderingLists";
+
+import LifeCyclesCDM from "./components/LifeCyclesCDM";
 
 
 function App() {
@@ -33,7 +35,8 @@ function App() {
     {/* <MethodsAsPropsParent /> */}
     {/* <MethodsAsPropsChild /> */}
     {/* <RenderingLists /> */}
-    <Click />
+    {/* <Click /> */}
+    <LifeCyclesCDM />
 
 
 
