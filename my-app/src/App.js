@@ -15,7 +15,9 @@
 // import Click from "./components/Click";
 // import RenderingLists from "./components/RenderingLists";
 // import LifeCyclesCDM from "./components/LifeCyclesCDM";
-import LifecyclesCDU from "./components/LifecyclesCDU";
+// import LifecyclesCDU from "./components/LifecyclesCDU";
+
+import LifeCyclesCWU from "./components/LifeCyclesCWU";
 
 
 
@@ -39,7 +41,8 @@ function App() {
     {/* <RenderingLists /> */}
     {/* <Click /> */}
     {/* <LifeCyclesCDM /> */}
-    <LifecyclesCDU />
+    {/* <LifecyclesCDU /> */}
+    <LifeCyclesCWU />
 
 
 
