@@ -17,7 +17,9 @@
 // import LifeCyclesCDM from "./components/LifeCyclesCDM";
 // import LifecyclesCDU from "./components/LifecyclesCDU";
 
-import LifeCyclesCWU from "./components/LifeCyclesCWU";
+import ControlledForm from "./components/ControlledForm";
+
+// import LifeCyclesCWU from "./components/LifeCyclesCWU";
 
 
 
@@ -42,7 +44,8 @@ function App() {
     {/* <Click /> */}
     {/* <LifeCyclesCDM /> */}
     {/* <LifecyclesCDU /> */}
-    <LifeCyclesCWU />
+    {/* <LifeCyclesCWU /> */}
+    <ControlledForm />
 
 
 
