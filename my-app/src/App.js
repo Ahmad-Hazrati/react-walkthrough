@@ -14,8 +14,10 @@
 // import { MethodsAsPropsParent } from "./components/MethodsAsPropsParent";
 // import Click from "./components/Click";
 // import RenderingLists from "./components/RenderingLists";
+// import LifeCyclesCDM from "./components/LifeCyclesCDM";
+import LifecyclesCDU from "./components/LifecyclesCDU";
 
-import LifeCyclesCDM from "./components/LifeCyclesCDM";
+
 
 
 function App() {
@@ -36,7 +38,8 @@ function App() {
     {/* <MethodsAsPropsChild /> */}
     {/* <RenderingLists /> */}
     {/* <Click /> */}
-    <LifeCyclesCDM />
+    {/* <LifeCyclesCDM /> */}
+    <LifecyclesCDU />
 
 
 
