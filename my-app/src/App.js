@@ -17,8 +17,10 @@
 // import LifeCyclesCDM from "./components/LifeCyclesCDM";
 // import LifecyclesCDU from "./components/LifecyclesCDU";
 
+import UseEffectCounter from "./components/UseEffectCounter";
+
 // import UseStateWithArrays from "./components/UseStateWithArrays";
-import UseStateWithObjects from "./components/UseStateWithObjects";
+// import UseStateWithObjects from "./components/UseStateWithObjects";
 
 // import ControlledFormHooks from "./components/ControlledFormHooks";
 
@@ -64,7 +66,8 @@ function App() {
     {/* <HooksCounter /> */}
     {/* <ControlledFormHooks /> */}
     {/* <UseStateWithArrays /> */}
-    <UseStateWithObjects />
+    {/* <UseStateWithObjects /> */}
+    <UseEffectCounter />
 
 
     </div>
