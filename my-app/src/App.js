@@ -17,7 +17,9 @@
 // import LifeCyclesCDM from "./components/LifeCyclesCDM";
 // import LifecyclesCDU from "./components/LifecyclesCDU";
 
-import HTTPRequests from "./components/HTTPRequests";
+import HTTPPost from "./components/HTTPPost";
+
+// import HTTPRequests from "./components/HTTPRequests";
 
 // import UseEffectCounter from "./components/UseEffectCounter";
 // import UseEffectCounterContainer from "./components/UseEffectCounterContainer";
@@ -72,7 +74,8 @@ function App() {
     {/* <UseStateWithObjects /> */}
     {/* <UseEffectCounter /> */}
     {/* <UseEffectCounterContainer /> */}
-    <HTTPRequests />
+    {/* <HTTPRequests /> */}
+    <HTTPPost />
 
 
     </div>
