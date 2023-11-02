@@ -17,8 +17,10 @@
 // import LifeCyclesCDM from "./components/LifeCyclesCDM";
 // import LifecyclesCDU from "./components/LifecyclesCDU";
 
-import ClassCounter from "./components/ClassCounter";
-import HooksCounter from "./components/HooksCounter";
+import ControlledFormHooks from "./components/ControlledFormHooks";
+
+// import ClassCounter from "./components/ClassCounter";
+// import HooksCounter from "./components/HooksCounter";
 
 // import SearchBar from "./components/SearchBar";
 
@@ -55,8 +57,9 @@ function App() {
     {/* <ControlledForm /> */}
     {/* <UncontrolledForm /> */}
     {/* <SearchBar /> */}
-    <ClassCounter />
-    <HooksCounter />
+    {/* <ClassCounter /> */}
+    {/* <HooksCounter /> */}
+    <ControlledFormHooks />
 
 
 
