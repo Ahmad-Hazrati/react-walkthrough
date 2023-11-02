@@ -17,7 +17,8 @@
 // import LifeCyclesCDM from "./components/LifeCyclesCDM";
 // import LifecyclesCDU from "./components/LifecyclesCDU";
 
-import HTTPPost from "./components/HTTPPost";
+import HTTPHooks from "./components/HTTPHooks";
+// import HTTPPost from "./components/HTTPPost";
 
 // import HTTPRequests from "./components/HTTPRequests";
 
@@ -75,8 +76,8 @@ function App() {
     {/* <UseEffectCounter /> */}
     {/* <UseEffectCounterContainer /> */}
     {/* <HTTPRequests /> */}
-    <HTTPPost />
-
+    {/* <HTTPPost /> */}
+    <HTTPHooks />
 
     </div>
   );
